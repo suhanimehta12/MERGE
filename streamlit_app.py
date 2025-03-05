@@ -1,3 +1,4 @@
+
 import streamlit as st
 
 
@@ -17,4 +18,4 @@ elif app_choice == "employee recruitment":
     st.page_link("https://blank-app-r88p17uu5ea.streamlit.app/", label="EMPLOYEE RECRUITMENT APPLICATION")
 
 elif app_choice == "Employee Promotion":
-    st.page_link("https://blank-app-0xeqw2zp56na.streamlit.app/",label="EMPLOYEE PROMOTION MODEL") 
+    st.page_link("https://blank-app-0xeqw2zp56na.streamlit.app/",label="EMPLOYEE PROMOTION MODEL")    
